@@ -3,13 +3,12 @@ import { faCode } from '@fortawesome/free-solid-svg-icons';
 const en = {
   __identity: "English",
   __langKey: "en",
-  name: "Nie Lin",
+  name: "Nie (Elon) Lin",
   //blog: "My Blog",
-  degree: "Undergraduate Student (Graduated at 2022.06)",
-  major: "Computer Science Software Engineering (GPA: 3.6 Ranked: 1st/78 students)",
-  academy: "Research Assistant",
-  department: "College of Computer Science and Electronic Engineering, Hunan University ",
-  researchStudent: "(Now)",
+  degree: "Master Student",
+  major: "Interdisciplinary Information Studies",
+  department: "Graduate School of Interdisciplinary Information Studies (GSII)",
+  university: "The University of Tokyo (UTokyo)",
   personalIntroduction: 
   `Hi! I am <strong>Nie Lin</strong>. I got my bachelor's degree in engineering in June 2022, and now I am working as a <strong>research assistant</strong> in
   <strong><a href='http://www-en.hnu.edu.cn/index.htm' target="_blank">
@@ -25,35 +24,13 @@ const en = {
   I have a strong interest in FPV research, welcome to 
   <a herf="mailto:nielin@hnu.edu.cn">
   contact me</a>.`,
-  notification1: 
-  `<img src="http://www.linnie.com.cn/img/new.gif">：<br>
-  (a) <b><i>My application status</i></b>：I am looking for the lab in the direction of <b>the first-person vision in computer vision</b> and applying to the Master's program and PhD program at the university where the lab is located. Email and online meeting are always welcome!<br>
-  (b) <b><i>My research objects</i></b>：My research objects is to build more powerful <b>human-centered artificial intelligence that can 'think'</b> through the exploration and discovery of <b>the first-person perspective in computer vision</b>, , which can <b>adapt to complex and changeable environments!</b><br>
-  (c) <b><i>My life goals</i></b>：My life goal is to become a computer vision researcher, serve as an independent faculty advisor at a university in the future, <b>and do impressive and influential work around the world.</b><br>
-  (d) <b><i>My academic planning</i></b>：After completing the master's course, <b>I will continue to complete the Phd course</b>, so as to continuously improve my scientific research ability.<br><br>
-  The following is about my application materials (academic)：
-  `,
-  curriculum_vitae:'1. [Curriculum Vitae]',
-  academic_transcripts:'2. [Academic Transcripts]',
-  research_proposal:'3. [Research Proposal]',
-  project_page:'[Project Page]',
-  meeting_photo:'4. [CVPR Meeting Photo]',
-  recommendation_letter:'5. [Recommendation Letter (Minjie Cai)]',
-  research_certificate:'6. [Research Certificate (Hunan University)]',
-  PRC_scholarship:'7. [National Scholarship of People’s Republic of China]',
-  notification2: 
-  `The following is about my application materials (basic) :
-  `,
-  diploma_certificate:'8. [Certification of Diploma]',
-  bachelor_certificate:'9. [Certification of Bachelor’s Degree]',
-  ranking_certificate:'10. [Certification of Grade 1st Ranking]',
   address1:
     "Address1: Room 9A411 Institute of AI-Net Electronic Information & Artificial Intelligence, DGUT, Dongguan, China",
   address:
-    "Address: Room 433 College of Computer Science and Electronic Engineering, Hunan University, Changsha, China (Now)",
-  email: "Email: nielin@hnu.edu.cn",
-  phone: "Phone: +86 131-3835-0137",
-  web: "Web: linnie.com.cn",
+    "Address: Institute of Industrial Science (IIS), The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo, 153-8505 JAPAN",
+  email: "Email: nielin@iis.u-tokyo.ac.jp",
+  phone: "Phone: +81 080-5637-8886",
+  web: "Web: lin-nie.github.io",
   navigation: {
     name: "Nie Lin",
     address: [

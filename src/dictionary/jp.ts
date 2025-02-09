@@ -1,13 +1,12 @@
 const jp = {
   __identity: "日本語",
   __langKey: 'jp',
-  name: "林 涅（リン ネエ）",
+  name: "林 涅（リン ネ）",
   //blog: "私のブログ",
-  degree: "学部生 (2022年6月卒業しました)",
-  major: "コンピューター ソフトウェア工学 (GPA: 3.6 ランキング: 専攻 1st/78 位)",
-  academy: "アシスタント研究員",
-  department: "情報科学工学部, 湖南大学",
-  researchStudent: "(現在)",
+  degree: "修士",
+  major: "学際情報学",
+  department: "学際情報学府",
+  university: "東京大学",
   personalIntroduction: `こんにちは~ 中国からの<strong>林 涅</strong>です。専攻はソフトウェア工学で、東莞理工大学を卒業しました。 
   現在、私は
   <a href="https://cai-mj.github.io/" target="_blank">
@@ -23,38 +22,13 @@ const jp = {
   <strong>ヒューマンコンピュータインタラクション(HCI)</strong>です。
   私は<strong>一人称視点映像解析研究</strong>に深い興味を持っており、交流することを歓迎します。
   `,
-  notification1: 
-  `<img src="http://www.linnie.com.cn/img/new.gif">：<br>
-  (a) <b><i>私の現状:</b></i> 私は<b>コンピュータビジョンにおける一人称ビジョン</b>の研究室を探しており、その研究室がある大学の修士課程および博士課程<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  に応募しています。<br>
-  (b) <b><i>私の研究:</b></i> 私の将来の研究目標は、<b>コンピュータビジョンにおける一人称視点の探索と発見</b>を通じて、より強力な<b>人間中心の「思考」型<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  人工知能</b>を構筑することです!<br>
-  (c) <b><i>私の目標:</b></i> 私の目標はコンピュータの視覚の科学研究者になることで、将来大学で独立した指導教員を担当して、<b>世界で印象深く影響力<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  のある仕事をします</b>。<br>
-  (d) <b><i>私の計画:</b></i> 私は修士の段階の課程を完成した后に<b>引き続き博士の課程</b>を申請して、これによって絶えず私の科学研究の能力を高めます。<br><br>
-  以下は私の出願書類についてです(学術):：
-  `,
-  curriculum_vitae:'1. [ポロフィール]',
-  academic_transcripts:'2. [成績表]',
-  research_proposal:'3. [研究計画書]',
-  project_page:'[プロジェクト ページ]',
-  meeting_photo:'4. [CVPR会議参加]',
-  recommendation_letter:'5. [推薦状 (蔡敏捷)]',
-  research_certificate:'6. [研究証明書 (湖南大学))]',
-  PRC_scholarship:'7. [中華人民共和国国家級奨学金]',
-  notification2: 
-  `以下は私の出願書類についてです(基本):
-  `,
-  diploma_certificate:'8. [卒業証明書]',
-  bachelor_certificate:'9. [学士学位証明書]',
-  ranking_certificate:'10. [専攻第一位証明書]',
   address1:
       "アドレス1: 中国広東省東莞市 DGUT-9A411 Ai-Net電子情報&人工知能研究所",
   address:
-      "アドレス: 中国湖南省長沙市 湖南大学 情報科学及び工程学院研究生弁公室433 (現在)",
-  email: "メールアドレス: nielin@hnu.edu.cn",
-  phone: "電話番号: +86 131-3835-0137",
-  web: "ホームページ: linnie.com.cn",
+      "アドレス: 〒 153-8505 東京都目黒区駒場 4-6-1 東京大学 生産技術研究所",
+  email: "メールアドレス: nielin@iis.u-tokyo.ac.jp",
+  phone: "電話番号: +81 080-5637-8886",
+  web: "ホームページ: lin-nie.github.io",
   newTitle: "ニュース",
   navigation: {
     name: "リン ネエ",

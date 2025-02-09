@@ -2,7 +2,7 @@
   <div class="profile-wrapper">
     <div class="profile-info-wrapper">
       <div class="profile-image">
-        <img src="@/assets/image.png" />
+        <img src="@/assets/LINNIE_10062023_japan.jpg" />
       </div>
       <div class="profile">
         <h1 class="name">
@@ -14,36 +14,16 @@
         <p class="advance-line">
           {{ words.major }}
         </p>
-        <p class="small-line">
-          {{ words.academy }}
-        </p>
-        <p class="small-line">
+        <p class="advance-line">
           {{ words.department }}
-          <span style="font-weight: 600">{{ words.researchStudent }}</span>
+        </p>
+        <p class="advance-line">
+          {{ words.university }}
         </p>
         <hr style="margin-top: 10px"/>
         <div class="introduction">
           <ul class="content">
               <p v-html="words.personalIntroduction"></p>
-              <p style="margin-top: 5px">
-                <font color='red' v-html="words.notification1">
-                </font>
-                <br>
-                <a href='http://www.linnie.com.cn/documents/curriculum_vitae.pdf'>{{words.curriculum_vitae}}</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                <a href='http://www.linnie.com.cn/documents/academic_transcripts.pdf'>{{words.academic_transcripts}}</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                <a href='http://www.linnie.com.cn/documents/NieLin_HNU_UTokyo_EgoV_Research_Proposal.pdf'>{{words.research_proposal}}</a>&nbsp&&nbsp
-                <a href='http://www.linnie.com.cn/projects/egov/'>{{words.project_page}}</a>&nbsp&nbsp&nbsp
-                <a href="http://www.linnie.com.cn/img/cvpr_2022_meeting_photo1.png">{{words.meeting_photo}}</a>&nbsp&nbsp&nbsp<br>
-                <a href='http://www.linnie.com.cn/documents/recommendation_letter.pdf'>{{words.recommendation_letter}}</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                <a href='http://www.linnie.com.cn/documents/research_certificate.pdf'>{{words.research_certificate}}</a>&nbsp&nbsp&nbsp&nbsp
-                <a href='http://www.linnie.com.cn/documents/PRC_scholarship.pdf'>{{words.PRC_scholarship}}</a>&nbsp<br><br>
-                <font color='red' v-html="words.notification2">
-                </font>
-                <br>
-                <a href='http://www.linnie.com.cn/documents/certificate_of_diploma.pdf'>{{words.diploma_certificate}}</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                <a href='http://www.linnie.com.cn/documents/certificate_of_bachelor_degree.pdf'>{{words.bachelor_certificate}}</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                <a href='http://www.linnie.com.cn/documents/certificate_of_grade_first_ranking.pdf'>{{words.ranking_certificate}}</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-              </p>
           </ul>
         </div>
       </div>

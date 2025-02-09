@@ -3,11 +3,10 @@ const zh = {
   __langKey: 'zh',
   name: "林 涅",
   //blog: "我的博客",
-  degree: "本科生 (毕业于 2022.06)",
-  major: "计算机 & 软件工程专业 (GPA: 3.6 排名: 专业 第1st/78 名)",
-  academy: "助理研究员",
-  department: "信息科学与工程学院, 湖南大学",
-  researchStudent:"（现在）",
+  degree: "硕士",
+  major: "交叉信息学",
+  department: "跨学科交叉信息学院",
+  university: "东京大学",
   personalIntroduction: `Hi! 我叫<strong>林涅</strong>，我于2022年6月在东莞理工大学取得工学学士学位。我现在正在
   <a href="https://www.hnu.edu.cn/" target="_blank">
   湖南大学</a>
@@ -19,35 +18,13 @@ const zh = {
   <br>我的研究兴趣包括<strong>计算机视觉(CV)</strong>，特别是在<strong>第一人称视觉(FPV)</strong> 以及<strong>人机交互(HCI)</strong>，
   特别是计算机视觉应用在<strong>感知和理解与人类相关的活动</strong>的领域。
   我对计算机视觉中的第一人称视觉有着浓厚的兴趣与爱好，欢迎各位通过我的邮箱与我联系与交流。`,
-  notification1: 
-  `<img src="http://www.linnie.com.cn/img/new.gif">：<br>
-  (a) 我的现状：我正在寻找计算机视觉中第一人称视觉方向的研究室，并申请该研究室所在大學的硕士课程以及博士课程。<br>
-  (b) 我的研究：我在未來的研究目標是希望通過對计算机视觉中第一人稱視角的探索和發現來構建更加强大的以人為中心的‘思考’型人工智能！<br>
-  (c) 我的目標：我的目標是成爲一名计算机视觉科研人员，未來在大学擔任独立的指导老师，在世界範圍做出令人印象深刻且有影响力的工作。<br>
-  (d) 我的規劃：我在完成硕士阶段課程后會继续完成博士課程，以此不斷提升我的科研能力。<br><br>
-  以下是關於我的申請材料（學術）：
-  `,
-  curriculum_vitae:'1. [個人簡歷]',
-  academic_transcripts:'2. [成績單]',
-  research_proposal:'3. [研究計劃書]',
-  project_page:'[項目頁面]',
-  meeting_photo:'4. [参加CVPR会议]',
-  recommendation_letter:'5. [推薦信-蔡敏捷教授]',
-  research_certificate:'6. [研究證明-湖南大學]',
-  PRC_scholarship:'7. [中華人民共和國獎學金]',
-  notification2: 
-  `以下是關於我的申請材料（基礎）：
-  `,
-  diploma_certificate:'8. [毕业证明]',
-  bachelor_certificate:'9. [学士学位证明]',
-  ranking_certificate:'10. [年级排位证明]',
   address1:
     "地址1: 中国广东省东莞市松山湖 东莞理工大学 Ai-Net智能研究所 9A-411",
   address:
-    "地址: 中国湖南省长沙市湖南大学 信息科学与工程学院 研究生办公室433 （现在）",
-  email: "个人邮箱: nielin@hnu.edu.cn",
-  phone: "个人电话: +86 131-3835-0137",
-  web: "个人网站: linnie.com.cn",
+    "地址: 〒 153-8505 東京都目黒区駒場 4-6-1 東京大学 生産技術研究所",
+  email: "个人邮箱: nielin@iis.u-tokyo.ac.jp",
+  phone: "个人电话: +81 080-5637-8886 (日本)",
+  web: "个人网站: lin-nie.github.io",
   newTitle: "消息",
   navigation: {
     name: "林涅",
